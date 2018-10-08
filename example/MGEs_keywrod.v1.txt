@@ -1,0 +1,15 @@
+Keyword	Category
+transposase	Transposon
+transposon	Transposon
+transposition	Transposon
+transposable	Transposon
+integrase	Integron
+integron	Integron
+recombinase	Recombination
+recombination	Recombination
+resolvase	Recombination
+conjugal	Conjugation
+conjugative	Conjugation
+conjugation	Conjugation
+mobilization	Mobilization
+plasmid	Plasmid
