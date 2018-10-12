@@ -8,3 +8,9 @@ A python script for extracting HMM models by keyword match to HMM name and annot
 
 Extract_HMM_Using_ID.py
 A python script for extracting HMM models using IDs.
+
+
+
+Extractor_Domain_Tlout_Besthit_QueryIDs.py
+A python script for extracting the first best domain hit and query sequence ids from hmmscan output
+Example folder file: example.domain.tlout
