@@ -14,3 +14,8 @@ A python script for extracting HMM models using IDs.
 Extractor_Domain_Tlout_Besthit_QueryIDs.py
 A python script for extracting the first best domain hit and query sequence ids from hmmscan output
 Example folder file: example.domain.tlout
+
+
+
+HmmScan_BreakPoint_Checker_Batch.py
+A python script for identifying the breakpoints of hmmscan search of domains on open reading frames (ORFs), and return the finished domain.tlout files and unfinished fasta files
